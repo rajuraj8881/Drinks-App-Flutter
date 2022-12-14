@@ -1,4 +1,4 @@
-# ecom_app2
+# Soft Drinks App Flutter
 
 A new Flutter project.
 
